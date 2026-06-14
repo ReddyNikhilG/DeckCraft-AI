@@ -1,0 +1,10 @@
+project_id = "mbvlznhixrmzylmizucm"
+
+[functions.generate-presentation]
+verify_jwt = false
+
+[functions.ai-edit-suggestions]
+verify_jwt = false
+
+[functions.generate-slide-image]
+verify_jwt = false
